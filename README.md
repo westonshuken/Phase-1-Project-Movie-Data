@@ -1,7 +1,7 @@
 # Phase-1-Project-Movie-Data
 Flatiron School Phase 1 Project exploring &amp; analyzing movie data to make recommendations to a new film production studio.
 
-![microsoft-banner.jpg](attachment:microsoft-banner.jpg)
+![microsoft-banner.jpg](./images/microsoft-banner.jpg)
 
 
 # Title (Phase-1-Project-Movie-Data)

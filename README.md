@@ -1,13 +1,11 @@
 # Phase-1-Project-Movie-Data
 
-# Title
-
 **Authors**: Madoria Thomas, Gregory Han, Nathaniel Martin, Weston Shuken
 
 ## Overview
 
 Flatiron School Phase 1 Project exploring &amp; analyzing movie data to make recommendations to a new film production studio.
-*A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+*A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.*
 
 ## Business Problem
 
@@ -17,14 +15,13 @@ We need to make sure that Microsoft is going to be profitiable from their movies
 
 ## Data
 
-We are using movie datasets from 4 different sources:
+We are using movie datasets from 5 different sources:
 
-***
 * IMDB
 * ROTTEN TOMATOES
-* TMBD
-* Mojo
-***
+* TheMovieDB
+* Box Office Mojo
+* The Numbers
 
 With these datasets, we will search for insights in box office performence and user ratings compared to various factors like genre, personel, runtime, production budget and release time.
 
@@ -43,18 +40,18 @@ our finings.
 
 Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
-***
-Questions to consider:
+*Questions to consider:
 * How did you prepare, analyze or model the data?
 * Why is this approach appropriate given the data and the business problem?
 ***
+*
 
 ## Results
 
 ***
-* 1) Suggested list of personel and publishers to work with.
-* 2) Importance of foreign vs. domestic revenue sources.
-* 3) Consider creating a vertically integrated studio to streaming service.
+1) Suggested list of personel and publishers to work with.
+2) Importance of foreign vs. domestic revenue sources.
+3) Consider creating a vertically integrated studio to streaming service.
 ***
 
 Here is an example of how to embed images from your sub-folder:

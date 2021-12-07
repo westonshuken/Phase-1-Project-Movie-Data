@@ -6,8 +6,6 @@ Flatiron School Phase 1 Project exploring &amp; analyzing movie data to make rec
 
 # Title (Phase-1-Project-Movie-Data)
 
-![microsoft-banner.jpg](attachment:microsoft-banner.jpg)
-
 **Authors**: [Madoria Thomas](https://github.com/madoriathomas), [Nathaniel Martin](https://github.com/UpGoerFive), [Weston Shuken](https://github.com/westonshuken), [Gregory Han](https://github.com/gregoryhhan)
 
 ## Overview

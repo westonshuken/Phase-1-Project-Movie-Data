@@ -19,7 +19,7 @@ We are using movie datasets from 5 different sources:
 
 * IMDB
 * ROTTEN TOMATOES
-* TheMovieBD
+* TheMovieDB
 * Box Office Mojo
 * The Numbers
 

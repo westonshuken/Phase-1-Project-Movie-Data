@@ -77,7 +77,7 @@ Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-t
 
 For any additional questions, please contact **name & email, name & email**
 
-## Repository Structure
+## Repository Structure (this is from template)
 ```
 ├── code
 │   ├── __init__.py

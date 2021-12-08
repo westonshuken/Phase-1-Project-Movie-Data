@@ -77,17 +77,3 @@ Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-t
 
 For any additional questions, please contact **name & email, name & email**
 
-## Repository Structure (this is from template)
-```
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
-```

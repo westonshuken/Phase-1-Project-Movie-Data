@@ -5,7 +5,6 @@
 ## Overview
 
 Flatiron School Phase 1 Project exploring &amp; analyzing movie data to make recommendations to a new film production studio.
-<<<<<<< HEAD
 *A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.*
 
 ## Business Problem
@@ -52,7 +51,6 @@ Questions to consider:
 ## Data
 
 Describe the data being used for this project.
->>>>>>> 59fea467e85607d43fa3e1a5810454979a65a2d5
 
 ***
 Questions to consider:
@@ -64,7 +62,6 @@ Questions to consider:
 
 ## Methods
 
-<<<<<<< HEAD
 We will use descriptive analysis to discover trends in the data. We will also look at correlation and distributions to visualize
 our finings.
 
@@ -99,7 +96,6 @@ Present your key results. For Phase 1, this will be findings from your descripti
 Questions to consider:
 * How do you interpret the results?
 * How confident are you that your results would generalize beyond the data you have?
->>>>>>> 59fea467e85607d43fa3e1a5810454979a65a2d5
 ***
 
 Here is an example of how to embed images from your sub-folder:

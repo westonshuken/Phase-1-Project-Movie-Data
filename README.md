@@ -125,6 +125,7 @@ Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-t
 For any additional questions, please contact **name & email, name & email**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Repository Structure (this is from template)
 ```
 ├── code
@@ -151,3 +152,5 @@ Describe the structure of your repository and its contents, for example:
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 >>>>>>> bd5c9c10b1de518ce1fbdee743385fb9b7f472aa
+=======
+>>>>>>> 892765ba25ab4df92fa124c8b13e81f50cc07fb9

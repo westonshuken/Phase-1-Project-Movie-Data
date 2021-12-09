@@ -5,30 +5,25 @@
 ## Overview
 
 Flatiron School Phase 1 Project exploring &amp; analyzing movie data to make recommendations to a new film production studio.
-<<<<<<< HEAD
-
-![microsoft-banner.jpg](./images/microsoft-banner.jpg)
-
-
-# Title (Phase-1-Project-Movie-Data)
-
-**Authors**: [Madoria Thomas](https://github.com/madoriathomas), [Nathaniel Martin](https://github.com/UpGoerFive), [Weston Shuken](https://github.com/westonshuken), [Gregory Han](https://github.com/gregoryhhan)
-
-## Overview
-
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+*A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.*
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
+Microsoft does not know anything about creating movies, yet they want to create a new movie studio. 
+We need to make sure that Microsoft is going to be profitiable from their movies as well as build a good brand reputation.
 
-***
-Questions to consider:
-* What are the business's pain points related to this project?
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-***
 
+## Data
+
+We are using movie datasets from 5 different sources:
+
+* IMDB
+* ROTTEN TOMATOES
+* TheMovieDB
+* Box Office Mojo
+* The Numbers
+
+With these datasets, we will search for insights in box office performence and user ratings compared to various factors like genre, personel, runtime, production budget and release time.
 ## Data
 
 Describe the data being used for this project.
@@ -52,7 +47,6 @@ We are using movie datasets from 5 different sources:
 * The Numbers
 
 With these datasets, we will search for insights in box office performence and user ratings compared to various factors like genre, personel, runtime, production budget and release time.
->>>>>>> bd5c9c10b1de518ce1fbdee743385fb9b7f472aa
 
 ***
 Questions to consider:
@@ -64,8 +58,8 @@ Questions to consider:
 
 ## Methods
 
-<<<<<<< HEAD
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+We will use descriptive analysis to discover trends in the data. We will also look at correlation and distributions to visualize
+our finings.
 
 ***
 Questions to consider:
@@ -75,15 +69,17 @@ Questions to consider:
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
-
+***
+1) Suggested list of personel and publishers to work with.
+2) Importance of foreign vs. domestic revenue sources.
+3) Consider creating a vertically integrated studio to streaming service.
 ***
 Questions to consider:
 * How do you interpret the results?
 * How confident are you that your results would generalize beyond the data you have?
 =======
 We will use descriptive analysis to discover trends in the data. We will also look at correlation and distributions to visualize
-our finings.
+our findings.
 
 Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
 
@@ -99,7 +95,6 @@ Describe the process for analyzing or modeling the data. For Phase 1, this will 
 1) Suggested list of personel and publishers to work with.
 2) Importance of foreign vs. domestic revenue sources.
 3) Consider creating a vertically integrated studio to streaming service.
->>>>>>> bd5c9c10b1de518ce1fbdee743385fb9b7f472aa
 ***
 
 Here is an example of how to embed images from your sub-folder:
@@ -124,26 +119,7 @@ Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-t
 
 For any additional questions, please contact **name & email, name & email**
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Repository Structure (this is from template)
-```
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
-```
-=======
 ## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
@@ -151,6 +127,3 @@ Describe the structure of your repository and its contents, for example:
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
->>>>>>> bd5c9c10b1de518ce1fbdee743385fb9b7f472aa
-=======
->>>>>>> 892765ba25ab4df92fa124c8b13e81f50cc07fb9

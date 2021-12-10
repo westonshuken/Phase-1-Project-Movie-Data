@@ -104,7 +104,7 @@ Further analyses could provide additional insights to having a more successful m
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Movie_Recommendations.ipynb) or our [presentation](./project-slides.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Movie_Recommendations.ipynb) or our [presentation](./presentation.pdf).
 
 For any additional questions, please contact **[Madoria Thomas](https://www.linkedin.com/in/madoria-thomas-2b9637133/), [Gregory Han](https://www.linkedin.com/in/gregory-han-140b32114), [Nathaniel Martin](https://www.linkedin.com/in/nathaniel-martin-73b037227/) and [Weston Shuken](https://www.linkedin.com/in/weston-shuken/) — Collectively known as 'The Four Forks'**
 

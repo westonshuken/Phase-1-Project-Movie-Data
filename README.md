@@ -26,11 +26,10 @@ Using the data provided and additional resources, we devised a plan to answer th
 
 We are using movie datasets from 5 different sources:
 
-* [IMDB]()
-* [ROTTEN TOMATOES]()
-* [TheMovieDB]()
-* [Box Office Mojo]()
-* [The Numbers]()
+* [IMDB](https://www.imdb.com/)
+* [TheMovieDB](https://www.themoviedb.org/)
+* [Box Office Mojo](https://www.boxofficemojo.com/)
+* [The Numbers](https://www.the-numbers.com/)
 
 The data includes information on movie genres, titles, runtime, production expense, foreign & domestic box office gross, production studio name, and release dates.
 
@@ -53,19 +52,22 @@ We cleaned, merged, and built data frames thay would best suit our analysis for 
 We used descriptive analysis to discover trends in the data. We also looked at trends, frequencies and distributions to visualize our findings.
 
 ### Runtime Frequency 
-![graph1](./images/runtime_distribution_ROI50.png)
-
-### Top Studios by Profit Margin
-![graph1](./images/topstudios_profitmargin.png)
-
-### Frequency of Releases by Genre
-![graph1](./images/movie_freq_genre.png)
+![graph1](./images/runtime_hist.png)
 
 ### Mean ROI by Genre
-![graph1](./images/mean_ROI_genre.png)
+![graph5](./images/ROI_mean.png)
 
 ### Median ROI by Genre
-![graph1](./images/median_ROI_genre.png)
+![graph6](./images/median_ROI_genre.png)
+
+### Top Studios by Profit Margin
+![graph2](./images/top_studios.png)
+
+### Movie Profit by Month of Release (Horror Films)
+![graph3](./images/horror_film.png)
+
+### Profit Counts Worldwide
+![graph7](./images/profit_counts.png)
 
 
 ## Recommendations
@@ -89,15 +91,15 @@ Further analyses could provide additional insights to having a more successful m
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Microsoft Movie Studio Business Analysis.ipynb) or our [presentation](./Movie_Data_Slides.pdf).
 
-For any additional questions, please contact **Madoria Thomas, Gregory Han, Nathaniel Martin, and Weston Shuken — Collectively known as, 'The Four Forks'**
+For any additional questions, please contact **[Madoria Thomas](https://www.linkedin.com/in/madoria-thomas-2b9637133/), [Gregory Han](https://www.linkedin.com/in/gregory-han-140b32114), [Nathaniel Martin](https://www.linkedin.com/in/nathaniel-martin-73b037227/) and [Weston Shuken](https://www.linkedin.com/in/weston-shuken/) — Collectively known as, 'The Four Forks'**
 
 ## Repository Structure
 
 ```
 ├── README.md                                         <- The top-level README for reviewers of this project
-├── Microsoft Movie Studio Business Analysis.ipynb    <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf                       <- PDF version of project presentation
+├── Movie_Recommendations.ipynb                       <- Narrative documentation of analysis in Jupyter notebook
+├── Movie_Data_Slides.pdf                             <- PDF version of project presentation
 ├── data                                              <- Both sourced externally and generated from code
 └── images                                            <- Both sourced externally and generated from code

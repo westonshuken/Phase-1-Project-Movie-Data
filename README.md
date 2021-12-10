@@ -1,11 +1,14 @@
 # Phase-1-Project-Movie-Data
 
-**Authors**: Madoria Thomas, Gregory Han, Nathaniel Martin, Weston Shuken
+## Microsoft Movie Studio Business Analysis
+
+**Authors**: [Madoria Thomas](https://github.com/madoriathomas), [Gregory Han](https://github.com/gregoryhhan), [Nathaniel Martin](https://github.com/UpGoerFive), [Weston Shuken](https://github.com/westonshuken)
 
 ## Overview
 
-Flatiron School Phase 1 Project exploring &amp; analyzing movie data to make recommendations to a new film production studio.
-*A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.*
+Microsoft wants to launch a new movie studio.
+
+By analyzing historical data, we uncovered data-driven tips for ensuring a the company's production is high performing with an efficient return on investment. We suggest ideas for genres, runtime, and studio acquisitions.
 
 ## Business Problem
 
@@ -13,7 +16,7 @@ Microsoft does not know anything about creating movies, yet they want to create 
 We need to make sure that Microsoft is going to be profitiable from their movies as well as build a good brand reputation.
 
 
-## Data
+## Data Understanding
 
 We are using movie datasets from 5 different sources:
 

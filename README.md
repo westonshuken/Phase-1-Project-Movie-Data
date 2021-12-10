@@ -1,6 +1,6 @@
 # Phase-1-Project-Movie-Data
-
-## Microsoft Movie Studio Business Analysis
+![banner](./images/microsoft-banner.jpg)
+# Microsoft Movie Studio Business Analysis
 
 **Authors**: [Madoria Thomas](https://github.com/madoriathomas), [Gregory Han](https://github.com/gregoryhhan), [Nathaniel Martin](https://github.com/UpGoerFive), [Weston Shuken](https://github.com/westonshuken)
 
@@ -13,8 +13,14 @@ By analyzing historical data, we uncovered data-driven tips for ensuring a the c
 ## Business Problem
 
 Microsoft does not know anything about creating movies, yet they want to create a new movie studio. 
-We need to make sure that Microsoft is going to be profitiable from their movies as well as build a good brand reputation.
 
+There are many unknown factors associated with how to make a profit.
+
+* *How long should the films be?*
+* *What genre should Microsoft produce?*
+* *Should Microsoft start from scratch or acquire a studio?*
+
+Using the data provided and additional resources, we devised a plan to answer these questions about how best Microsoft can break into the movie studio market and ensure profitability.
 
 ## Data Understanding
 
@@ -30,14 +36,6 @@ The data includes information on movie genres, titles, runtime, production expen
 
 With these datasets, we will search for insights in box office performence and user ratings compared to various factors like genre, personel, runtime, production budget and release time.
 
-***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-* What are the properties of the variables you intend to use?
-***
-
 ## Methods
 
 We analyzed hundreds of thousands of data records across multiple sources to conduct descriptive statistics and visualizations.
@@ -51,77 +49,43 @@ However, much of the data was irrelevant to our needs:
 
 We cleaned, merged, and built data frames thay would best suit our analysis for a modern movie studio, interested in movie theater releases, and with a budget sufficient budget for major film productions.
 
+## Analysis and Visualisations
+We used descriptive analysis to discover trends in the data. We also looked at trends, frequencies and distributions to visualize our findings.
 
-## Results
+### Runtime Frequency 
+![graph1](./images/runtime_distribution_ROI50.png)
 
-***
-1) Suggested list of personel and publishers to work with.
-2) Importance of foreign vs. domestic revenue sources.
-3) Consider creating a vertically integrated studio to streaming service.
-***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-=======
-We will use descriptive analysis to discover trends in the data. We will also look at correlation and distributions to visualize
-our findings.
+### Top Studios by Profit Margin
+![graph1](./images/topstudios_profitmargin.png)
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
+### Frequency of Releases by Genre
+![graph1](./images/movie_freq_genre.png)
 
-*Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
-***
-*
+### Mean ROI by Genre
+![graph1](./images/mean_ROI_genre.png)
 
-## Results
-
-***
-1) Suggested list of personel and publishers to work with.
-2) Importance of foreign vs. domestic revenue sources.
-3) Consider creating a vertically integrated studio to streaming service.
-***
-
-Here is an example of how to embed images from your sub-folder:
-
-### Visual 1
-![graph1](./images/viz1.png)
-
-### Visual 2
-![graph1](./images/viz1.png)
-
-### Visual 3
-![graph1](./images/viz1.png)
-
-### Visual 3
-![graph1](./images/viz1.png)
-
+### Median ROI by Genre
+![graph1](./images/median_ROI_genre.png)
 
 
 ## Recommendations
 
-*Keep the film runtime to around 1.5 hours.
-*Best M&A option: Neon and Orchard Film Studios.
-*Create films with a historically high ROI: horror, mystery & thriller.
-*Avoid releasing horror movies in November & December.
+This analysis leads to three recommendations for Microsoft when creating a movie studio:
+
+1. **Don't make cliffhangers or movies too long.** Runtime for movies should be made between 90-120 minutes; movies with ROI above 50% were made in this range.
+2. **Acquire Neon or Orchard Film Studios.** Both Neon and Orchard are ranked highly in profits for both domestic and worldwide markets. Acquiring either one of these two would allow Microsoft to make movies that are competitive in the box office.
+3. **Create horror, mystery, or thriller movies.** Adding these genres as part of the production portfolio would garner Microsoft a higher return on investment.
+
 
 ## Next Steps
 
-* Better Datasets
-  * Net to Studio -> strengthen analysis
-  * Other Expense Data -> Cap. Budgeting
-  * Financial Performance -> M&A
-* Outside the Box Office
-  * $0 Box Office -> Direct to licensing	
+Further analyses could provide additional insights to having a more successful movie studio for Microsoft:
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
+* **Net Profit to Studio Data.** As of now we are seeing the net profit of the film at box office but not what profits are returning directly to the studios involved. Having the net profit by film to studio would increase the strength of our analysis of when to release movies.
+* **Other expense data.** Further inspection to types of expense could also help for your capital budgeting. E.g. marketing expense, distribution expense, etc.
+* **Competitors' financial performance.** Deeper understanding of competitive landscape — to have organized data on competitors financial performance would help strengthen our M&A recommendations. E.g. historical market cap data
+* **Straight to streaming and licensing.** Although the box office is important for new films, much the data had $0 box office gross which led us to believe some films sell straight to streaming licensing. Exploring data related to streaming and licensing would also provide a realistic prediction of how a film could be exploited.
 
-***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
-***
 
 ## For More Information
 
